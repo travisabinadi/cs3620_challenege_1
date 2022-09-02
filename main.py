@@ -1,7 +1,3 @@
-# Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
-import math
-
-
 def calculate_simple_interest():
     print("Calulating Simple Interest:\n")
     p = int(input('Principle:  '))
